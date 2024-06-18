@@ -1,5 +1,6 @@
 # An introduction to BW25
 
+<a href="https://github.com/maximikos/Brightway2_Intro" target="_blank">adapted from Max Koslowski's BW2 tutorial</a>
 This tutorial is [adapted from Max Koslowski's BW2 tutorial](https://github.com/maximikos/Brightway2_Intro). 
 
 Brightway is a Python-based free and open-source software for lifecycle assessment (LCA). The official documentation can be found [here](https://docs.brightway.dev/en/latest/index.html).
