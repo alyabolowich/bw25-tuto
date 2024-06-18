@@ -9,5 +9,4 @@ LCA is a tool used for analysing the environmental (and other) pressures associa
 This repo contains three files: a Jupyter notebook and two spreadsheets that are used at some point in that notebook.
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
-
-CC BY 4.0
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
